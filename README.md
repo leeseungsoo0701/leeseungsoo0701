@@ -3,13 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SeungSoo's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
 ### &nbsp;👩‍💻 About Me
-- 🤔  &nbsp; I usually do Front-end | Web/App development.
+- 🤔  &nbsp; I usually do Back-end | Web development.
 
 - 🎓   &nbsp; Dongguk UNIV - Department of Information&Communication Engineering.
 
-- 🐱‍👤   &nbsp; I'm Software architecture Researcher
-
-- <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> [Notion Portfolio](https://cheddar-dollar-d16.notion.site/497ac6c432c743848f33fdd58a0285ac)
+- <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> [Notion Portfolio](https://chivalrous-dog-9bd.notion.site/Why-5ce2383835dc462895b1e150779de17c)
 
 <br>
 
@@ -40,7 +38,6 @@ Collaboration Tool : <img src="https://img.shields.io/badge/Github-181717?style=
   
 </h2>
 
-<br>
 <h2>
 
 ### 🤝🏻 Connect with Me
