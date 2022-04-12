@@ -1,6 +1,5 @@
 # leeseungsoo0701&nbsp;<img src="https://github.com/npnppn/npnppn/blob/main/aing_eyes.gif" width="40px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnpnppn%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=SeungSoo's%20Github&fontSize=40&fontAlign=50&fontAlignY=40)
 
 ### &nbsp;👩‍💻 About Me
 - 🤔  &nbsp; I usually do Front-end | Web/App development.
@@ -9,7 +8,9 @@
 
 - 🐱‍👤   &nbsp; I'm Software architecture Researcher
 
-- 
+- <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> [Portfolio](https://cheddar-dollar-d16.notion.site/497ac6c432c743848f33fdd58a0285ac)
+
+<br>
 
 ![npnppn's github stats](https://github-readme-stats.vercel.app/api?username=leeseungsoo0701&show_icons=true&theme=synthwave)&nbsp;
 
@@ -44,11 +45,11 @@ Collaboration Tool : <img src="https://img.shields.io/badge/Github-181717?style=
 </h2>
 
 
-<h2>
+<!-- <h2>
   
 ### 💻 BOJ
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=npnppn)](https://solved.ac/npnppn)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=npnppn&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=npnppn&theme=cold) -->
   
 </h2>
 
