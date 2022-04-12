@@ -21,20 +21,22 @@
   
 ### ✨ Skills
 <!-- <img src="https://img.shields.io/badge/이름-컬러?style=flat&logo=이름&logoColor=white"/> -->
-Language : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;
+<b>Language<b> : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 <br>
-Framework : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
+<b>Framework<b> : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 <br>
-Database : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<b>Database<b> : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <br>
-Collaboration Tool : <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>&nbsp;
+<b>Cloud<b>
+<br>
+<b>Collaboration Tool<b> : <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=Mattermost&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+
   
 </h2>
 
