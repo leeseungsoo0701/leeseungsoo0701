@@ -13,6 +13,8 @@
 
 <br>
 
+<br>
+
 ![Seungsoo's github stats](https://github-readme-stats.vercel.app/api?username=leeseungsoo0701&show_icons=true&theme=synthwave)&nbsp;
 
 
@@ -37,6 +39,9 @@ Collaboration Tool : <img src="https://img.shields.io/badge/Github-181717?style=
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
   
 </h2>
+
+<br>
+<h2>
 
 ### 🤝🏻 Connect with Me
 Instagram
