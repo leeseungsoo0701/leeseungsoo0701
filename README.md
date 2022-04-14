@@ -25,20 +25,20 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;
 <br>
 <b>Framework<b> : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>&nbsp;
-
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <br>
-<b>Database<b> : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Redis-white?style=flat&logo=Redis&logoColor=#DC382D"/>
+<b>Database<b> : <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Redis-white?style=flat-square&logo=Redis&logoColor=#DC382D"/>
 <br>
-<b>Cloud<b> :  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=#232F3E"/>&nbsp;
- <img src="https://img.shields.io/badge/Amazon S3-white?style=flat&logo=Amazon S3&logoColor=#white"/>
+<b>Cloud<b> :  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=#232F3E"/>&nbsp;
+ <img src="https://img.shields.io/badge/Amazon S3-white?style=flat-square&logo=Amazon S3&logoColor=#white"/>
 <br>
 <b>Collaboration Tool<b> : <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>&nbsp;
- <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>&nbsp;
- <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 <br>
-<b>Test Tool<b> :  <img src="https://img.shields.io/badge/APACHE JMETER-D22128?style=flatbadge&logo=apache jmeter&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flatbadge&logo=postman&logoColor=white">  
+<b>Test Tool<b> :  <img src="https://img.shields.io/badge/APACHE JMETER-D22128?style=flat-square&logo=apache jmeter&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white">  
 
 </h2>
 
