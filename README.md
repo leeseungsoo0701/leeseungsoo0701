@@ -45,9 +45,9 @@
 <h2>
 
 ### 🤝🏻 Connect with Me
-Instagram
-
-Email
+Email: seungsoo0701@gmail.com 
+<br>
+Phone_number: 010-4789-4370
 
 
 <!-- <h2>
