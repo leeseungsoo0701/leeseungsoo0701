@@ -38,6 +38,19 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 
   
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=#232F3E"/>
+  
+  
+ <img src="https://img.shields.io/badge/Amazon S3-white?style=flat&logo=Amazon S3&logoColor=#white"/>
+ <img src="https://img.shields.io/badge/Redis-white?style=flat&logo=Redis&logoColor=#DC382D"/>
+ <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=Socket.io&logoColor=#DC382D"/>
+ <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flatbadge&logo=postman&logoColor=white">
+ <img src="https://img.shields.io/badge/APACHE JMETER-D22128?style=flatbadge&logo=apache jmeter&logoColor=white">
 </h2>
 
 <h2>
