@@ -7,7 +7,7 @@
 
 - 🎓   &nbsp; Dongguk UNIV - Department of Information&Communication Engineering.
 
-- <img src="https://github.com/Kinetic27/Kinetic27/blob/master/earth.gif" width="24px"> [Notion Portfolio](https://chivalrous-dog-9bd.notion.site/Why-5ce2383835dc462895b1e150779de17c)
+- 📚 [Notion Portfolio](https://chivalrous-dog-9bd.notion.site/Why-5ce2383835dc462895b1e150779de17c)
 
 <br>
 
